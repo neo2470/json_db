@@ -116,17 +116,17 @@
 				"0_image": "http://uat.edxschool.com/edxtool/sisters/noticeboard/images/chr_image001_h.png",
 				"1_text": "文字1_1",
 				"2_button_text": "按鈕1_1",
-				"2_button_action": "2_action",
+				"2_button_action": "1_1_action",
 				"3_button_text": "按鈕1_2",
 				"3_button_action": "3_action"
 			},
 			{
 				"0_image": "http://uat.edxschool.com/edxtool/sisters/noticeboard/images/chr_image001_h.png",
-				"1_text": "文字2",
+				"1_text": "文字2_1",
 				"2_button_text": "按鈕2_1",
-				"2_button_action": "3_action",
+				"2_button_action": "2_1_action",
 				"3_button_text": "按鈕2_2",
-				"3_button_action": "3_action"
+				"3_button_action": "2_2_action"
 			}
 		]
 	}]
